@@ -3,5 +3,5 @@ let _ = require( 'wimagereader' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
